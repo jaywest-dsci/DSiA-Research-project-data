@@ -9,14 +9,16 @@ and how MCLS outcomes shifted after CAHOOTS stopped serving Eugene in April 2025
 - **RQ2:** How do MCLS outcomes vary between when CAHOOTS was operational and after they stopped?
 
 ## Project Structure
- Data Science in Action/
-  ├── main.ipynb
-  ├── MCSLC.xlsx
-  └── EPD_data/
-      ├── EugeneCAD2015noloc.csv
-      ├── EugeneCAD2016noloc.csv
-      ├── …
-      └── EugeneCAD2025noloc.csv
+```
+Data Science in Action/
+├── main.ipynb
+├── MCSLC.xlsx
+└── EPD_data/
+    ├── EugeneCAD2015noloc.csv
+    ├── EugeneCAD2016noloc.csv
+    ├── …
+    └── EugeneCAD2025noloc.csv
+```
 ## Dependencies
 
 Python 3.13, `pandas`, `numpy`, `openpyxl`.
