@@ -21,7 +21,7 @@ Data Science in Action/
 ```
 ## Dependencies
 
-Python 3.13, `pandas`, `numpy`, `openpyxl`.
+Python 3.13, `pandas`, `numpy`
 
 
 ## How to Run
